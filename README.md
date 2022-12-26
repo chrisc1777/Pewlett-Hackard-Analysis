@@ -23,4 +23,4 @@ The purpose of this project is to determine the number of employee titles retiri
 
 ![mentorship_eligibility_by_title](https://user-images.githubusercontent.com/106359564/209030035-80c1bb6f-c83e-481f-b495-1581657fcc14.png)
 
-Since the substantial amount of Pewlett Hackard employees are retiring. The company must prepare a robust hiring plan to fill the new positions. Thankfully, theres a lot of current senior engineers and staff that could mentor the new generation.
+Since there is a substantial amount of Pewlett Hackard employees are retiring, the company must prepare a robust hiring plan to fill the new positions. Thankfully, theres a lot of current senior engineers and staff that could mentor the new generation.
